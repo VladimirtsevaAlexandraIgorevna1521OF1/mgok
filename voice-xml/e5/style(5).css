@@ -1,0 +1,196 @@
+body {
+    width: 100%;
+    background-color: #e0e0e0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container-b {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header, h1, p {
+   font-weight: 300;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.go-back {
+font-size: 40px;
+color: #828282;
+
+display: inline-block;
+}
+.new-search {
+
+font-weight: 300;
+font-size: 36px;
+background-color: #f2f2f2;
+padding-left: 10px;
+padding-right: 10px;
+text-align: center;
+display: inline-block;
+border-radius: 10px;
+}
+main {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container-m1 {
+    display: inline-block;
+}
+.name {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 60px;
+}
+.address {
+    display: inline-block;
+    font-weight: 300;
+    font-size: 36px;
+    margin-bottom: 103px;
+}
+.num-1 {
+    font-size: 45px;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 0;
+    margin-right: 50px;
+}
+.num-2 {
+    font-size: 45px;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 0;
+}
+.num-3 {
+    font-size: 45px;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 0;
+}
+.num-4 {
+    font-size: 45px;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.container-m2 {
+    display: inline-block;
+    margin-left: 434px;
+    font-weight: 300;
+}
+.date {
+    font-weight: 400;
+    font-size: 36px;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+.f {
+    display: flex;
+    margin-bottom: 12px;
+}
+.time {
+    font-weight: 300;
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 20px;
+}
+.number {
+    font-weight: 300;
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+.minutes {
+    font-weight: 300;
+    font-size: 24px;
+    display: inline-block;
+    margin-top: 12px;
+    margin-bottom: 60px;
+}
+
+.transform {
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #f2f2f2;
+    width: 400px;
+    height: 69px;
+    padding-right: 12.5px;
+    padding-left: 12.5px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 0;
+    justify-content: center;
+    }
+.download {
+    font-weight: 300;
+    font-size: 45px;
+    background-color: #f2f2f2;
+    width: 170px;
+    height: 78px;
+    padding-right: 12.5px;
+    padding-left: 12.5px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 68px;
+}
+.o {
+    display: flex;
+}
+.u {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #c4c4c4;
+    font-size: 40px;
+}
+.media {
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.playing-1 {
+    width: 200px;
+    height: 0;
+    border: 4px solid #333333;
+    margin-bottom: 0;
+    margin-left: 60px;
+}
+.playing-2 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: #333333;
+    margin-top: 14px;
+    margin-bottom: 0;
+}
+.playing-3 {
+    width: 400px;
+    height: 0;
+    border: 2px solid #333333;
+    margin-bottom: 0;
+    margin-right: 150px;
+}
+.n {
+    display: flex;
+}
+.time-2 {
+    margin-left: 60px;
+    font-size: 24px;
+    margin-top: 0;
+}

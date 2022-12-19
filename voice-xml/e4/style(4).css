@@ -1,0 +1,64 @@
+body {
+    width: 100%;
+    background-color: #e0e0e0;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header, h1, p {
+   font-weight: 300;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.go-back {
+font-size: 40px;
+color: #828282;
+
+display: inline-block;
+}
+.new-search {
+
+font-weight: 300;
+font-size: 36px;
+background-color: #f2f2f2;
+padding-left: 10px;
+padding-right: 10px;
+text-align: center;
+display: inline-block;
+border-radius: 10px;
+}
+.object {
+    background-color: #c4c4c4;
+    width: 130px;
+    height: 130px;
+    border-radius: 10px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    display: flex;
+}
+
+
+.obj-name {
+    font-size: 36px;
+    margin: 0;
+}
+.obj-card {
+    gap:20px;
+    display: flex;
+    align-items: center;
+}
+.obj-address {
+    font-size: 24px;
+    margin: 0;
+}
+.obj-number {
+    font-size: 24px;
+    margin: 0;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
